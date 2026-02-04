@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Runtime data
+config/rules.json
+backups/
+logs/
+
+# Virtual env
+venv/
+.env
+
